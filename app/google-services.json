@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "576561160313",
+    "firebase_url": "https://scanbarcode-5165c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scanbarcode-5165c",
+    "storage_bucket": "scanbarcode-5165c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576561160313:android:201d72f72ed549df54b4a8",
+        "android_client_info": {
+          "package_name": "com.example.scanbarcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zEBNhm48gnST87VSJVftImZpJhz6wsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

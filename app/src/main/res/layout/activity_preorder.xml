@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Preorder"-->
+<!--        android:textSize="24sp"-->
+<!--        android:textStyle="bold" />-->
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="16dp"-->
+<!--        android:text="Dengan melakukan preorder, Anda setuju dengan syarat dan ketentuan yang berlaku." />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/item_count_input"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Masukkan jumlah barang"-->
+<!--        android:inputType="number" />-->
+
+<!--    <CheckBox-->
+<!--        android:id="@+id/agreement_checkbox"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:text="Saya setuju dengan syarat dan ketentuan" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/preorder_button"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="end"-->
+<!--        android:layout_marginTop="16dp"-->
+<!--        android:text="Preorder" />-->
+
+    <TextView
+        android:id="@+id/item_name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Barang"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="16dp" />
+
+    <TextView
+        android:id="@+id/item_stock_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stok: XX"
+        android:textSize="16sp"
+        android:padding="16dp" />
+
+
+    <Button
+        android:id="@+id/request_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Request"
+        android:layout_margin="16dp" />
+
+
+</LinearLayout>
